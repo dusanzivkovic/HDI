@@ -1,6 +1,6 @@
 const map = new maplibregl.Map({
     container: 'map',
-    style: 'https://api.maptiler.com/maps/voyager/style.json?key=FUWC63pC4JOppUGhyT5X',
+    style: 'https://api.maptiler.com/maps/voyager/style.json?key=API_KEY',
     center: [7, 20], 
     zoom: 1.8,
 });
